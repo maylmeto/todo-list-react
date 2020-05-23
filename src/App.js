@@ -9,7 +9,6 @@ function App() {
   return (
     <div className="App">
       <TodoInput></TodoInput>
-      <TodoInput></TodoInput>
 
       <TodoList></TodoList>
     </div>
